@@ -1,4 +1,8 @@
-Start kubernetes:
+# Code-Ablage zum Docker-Kubernetes-Kurs
+Dieses Repository dient als Ablage der Übungsaufgaben aus dem Onlinekurs auf [Udemy](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+
+
+Notizen zum Starten des Kubernetes-Clusters:
 
 - minikube start
 - kubectl apply -f deployment.yaml und service.yaml
